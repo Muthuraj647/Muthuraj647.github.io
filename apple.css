@@ -1,0 +1,122 @@
+﻿body{
+font-family:Sans-serif;
+}
+
+.top{
+list-style:none;
+display:flex;
+justify-content:space-around;
+background-color:rgb(20,20,20);
+padding-top:10px;
+padding-bottom:0;
+padding-left:0;
+padding-right:0;
+font-size:14px;
+height:30px;
+margin:-10px -10px 0px -10px;
+}
+.top img,.search{
+width:40px;
+height:30px;
+padding-left:100px;
+padding-right:10px;
+margin-top:-5px;
+}
+.top .search{
+padding-left:10px;
+padding-right:100px;
+}
+a{
+color:white;
+text-decoration:none;
+}
+p{
+font-size:25px;
+text-align:center;
+}
+h1{
+font-size:40px;
+text-align:center;
+}
+.se{
+background-color:black;
+color:white;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+.se img{
+margin-top:-30px;
+}
+.se img,.ieleven img,.i11-pro img,.mac img,.ipad img,.watch img,.airpods img,.tv img,.arcade img{
+margin-left:25%;
+}
+.se h1{
+padding:10px;
+}
+.ieleven {
+background-color:#ececec;
+margin-left:-10px;
+margin-right:-10px;
+margin-top:-30px;
+}
+.ieleven h1,.i11-pro h1,.mac h1,.ipad h1,.airpods h1,.tv h1,.arcade h1{
+color:#000000;
+padding:20px;
+}
+.ieleven p,.i11-pro p,.mac p,.ipad p,.airpods p,.tv p,.arcade p{
+color:#000000;
+}
+
+.mac{
+background-color:#14eddc;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+
+.ipad{
+background-color:#fafafa;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+.watch{
+background-color:#333230;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+.watch h1,.tv h1,.arcade h1{
+color:white;
+padding:20px;
+}
+.watch p,.arcade p{
+color:white;
+}
+.tv{
+background-color:black;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+.arcade{
+background-color:blue;
+margin-top:-30px;
+margin-left:-10px;
+margin-right:-10px;
+}
+.info p{
+font-size:10px;
+}
+.bottom{
+list-style:none;
+}
+.bottom{
+display:flex;
+justify-content:space-around;
+font-size:14px;
+}
+.footer a{
+color:#808080;
+}
